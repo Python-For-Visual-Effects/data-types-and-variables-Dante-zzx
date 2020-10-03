@@ -33,4 +33,4 @@ print(Number_01)
 # follows: "The 10% overscan of 1920 is <value 1>, and the 1080 is <value 2>"
 width= 1920
 height= 1080
-print("The 10% overscan of 1920 is " +str(width*0.1) + ", and the 1080 is " + str(y*0.1))
+print("The 10% overscan of 1920 is " +str(width*0.1) + ", and the 1080 is " + str(height*0.1))
